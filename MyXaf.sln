@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyXaf.Module", "MyXaf.Module\MyXaf.Module.csproj", "{06243701-73C9-4C0D-8A84-BE68927EEB77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyXaf.Win", "MyXaf.Win\MyXaf.Win.csproj", "{D78F7657-46C7-44E4-984D-A4D75E03279F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06243701-73C9-4C0D-8A84-BE68927EEB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06243701-73C9-4C0D-8A84-BE68927EEB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06243701-73C9-4C0D-8A84-BE68927EEB77}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{06243701-73C9-4C0D-8A84-BE68927EEB77}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{06243701-73C9-4C0D-8A84-BE68927EEB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06243701-73C9-4C0D-8A84-BE68927EEB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78F7657-46C7-44E4-984D-A4D75E03279F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78F7657-46C7-44E4-984D-A4D75E03279F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78F7657-46C7-44E4-984D-A4D75E03279F}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{D78F7657-46C7-44E4-984D-A4D75E03279F}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{D78F7657-46C7-44E4-984D-A4D75E03279F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78F7657-46C7-44E4-984D-A4D75E03279F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
